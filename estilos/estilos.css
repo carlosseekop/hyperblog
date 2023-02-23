@@ -6,6 +6,10 @@ body{
    
 
 }
+#cabecera
+{
+background-color: aqua;
+}
 #container
 {
     width: 70%;
